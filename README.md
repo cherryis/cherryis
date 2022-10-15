@@ -1,3 +1,9 @@
+- 🌱 I’m currently learning with help from docs.github.com
+- 👯 I’m looking to collaborate on the contribution
+- 🤔 I’m seeking help getting mentors and guidance for a career.
+- 😄 Pronouns: She...
+- ⚡ Fun fact: Talking with wildlife...
+
 # h1 Hi there 👋
 ## h2 Hi
 ### h3
